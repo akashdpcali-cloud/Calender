@@ -4,7 +4,6 @@ let month=document.querySelector(".month");
 let year=document.querySelector(".year");
 let today;
 
-
 const alldays=["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 const allmonths=["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
